@@ -1,2 +1,4 @@
 # MNUM_Project_4
-Projekt nr 4 z przedmiotu MNUM - Metody Numeryczne.
+Projekt nr 4 (układy równań różniczkowych zwyczajnych) z przedmiotu MNUM - Metody Numeryczne.
+
+Project nr 4 (systems of ordinary differential equations) from Numeric Methods class.
