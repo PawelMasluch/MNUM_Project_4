@@ -1,0 +1,2 @@
+s. 47 
+Zamiast "(...) (metodą RK4 ze stałym krokiem) (...)" powinno być "(...) (metodą predyktor-korektor Adamsa, 4. rzędu, ze stałym krokiem) (...)".
